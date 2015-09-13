@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sky:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="quick4j.war">
+      <element id="artifact" artifact-name="sky:war exploded" />
+    </root>
+  </artifact>
+</component>
